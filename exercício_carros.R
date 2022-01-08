@@ -15,3 +15,4 @@ library(ggplot2)
 ggplot(data = carros, aes(x = dist, y = speed)) +
   geom_point()
 
+# o gráfico apresenta uma relação quadrática entre as variáveis x e y 
